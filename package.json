@@ -1,0 +1,22 @@
+{
+  "name": "jasmine_error_demo",
+  "version": "1.0.0",
+  "description": "jasmine Error Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magiconch/jasmine_Error_Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magiconch/jasmine_Error_Demo/issues"
+  },
+  "homepage": "https://github.com/magiconch/jasmine_Error_Demo#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
